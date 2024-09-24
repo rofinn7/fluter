@@ -1,3 +1,4 @@
+import 'package:fluter/widget_baru/image_widget.dart';
 import 'package:fluter/widget_baru/text_widget.dart';
 import 'package:flutter/material.dart';
 
@@ -106,7 +107,8 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const TextWidget()
+            const TextWidget(),
+            const ImageWidget(),
             // const Text(
             //   'You have pushed the button this many times:',
             // ),

@@ -5,6 +5,9 @@ class TextWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text("Belajar Flutter");
+    return const Text(
+      "POLIWANGI",
+      style: TextStyle(fontSize: 50),
+    );
   }
 }
