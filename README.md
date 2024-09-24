@@ -1,16 +1,23 @@
-# fluter
+1. Praktikum 1 Membuat Project Flutter Baru
+    ![Hasil Praktikum 1](Screenshot_1727163120.png)
 
-A new Flutter project.
+2. Praktikum 2 Membuat Repository GitHub dan Laporan Praktikum
+    ![Hasil Praktikum 2](image.png)
 
-## Getting Started
+3. Praktikum 3  Menerapkan Widget Dasar
+    ![Langkah 1 Text Widget](Screenshot_1727163164.png)
 
-This project is a starting point for a Flutter application.
+    ![Langkah 2 Image Widget](Screenshot_1727163209.png)
 
-A few resources to get you started if this is your first Flutter project:
+4. Praktikum 4 Menerapkan Widget Material Design dan iOS Cupertino
+    ![Langkah 1 Cupertino Button dan Loading Bar](Screenshot_1727163951.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    ![Langkah 2 Floating Action Button (FAB)](Screenshot_1727164099.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ![Langkah 3 Scaffold Widget](Screenshot_1727164402.png)
+
+    ![Langkah 4 Dialog Widget](Screenshot_1727164871.png)
+
+    ![Langkah 5 Input dan Selection Widget](Screenshot_1727164958.png)
+
+    ![Langkah 6 Date and Time Pickers](Screenshot_1727165004.png)
